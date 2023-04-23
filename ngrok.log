@@ -3,3 +3,122 @@ t=2023-04-23T13:06:32+0200 lvl=info msg="join connections" obj=join id=ceecfd614
 t=2023-04-23T13:09:38+0200 lvl=info msg="join connections" obj=join id=291c08b25860 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:55482
 t=2023-04-23T13:13:42+0200 lvl=info msg="join connections" obj=join id=5b4be569fdac l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:60744
 t=2023-04-23T13:13:45+0200 lvl=info msg="join connections" obj=join id=11529c8dd1b2 l=127.0.0.1:8083 r=65.21.241.47:45020
+t=2023-04-23T13:59:27+0200 lvl=info msg="join connections" obj=join id=593ce72f48f9 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:45572
+t=2023-04-23T14:00:25+0200 lvl=info msg="join connections" obj=join id=bf135db69cb9 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:45604
+t=2023-04-23T14:01:57+0200 lvl=info msg="join connections" obj=join id=4b8dd3b08a9c l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:5d6f:4d2a:3cc8:2f5b]:49767
+t=2023-04-23T14:03:02+0200 lvl=info msg="join connections" obj=join id=5654cd91cf16 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:55982
+t=2023-04-23T14:03:39+0200 lvl=info msg="join connections" obj=join id=7abcbca5f157 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:56006
+t=2023-04-23T14:04:12+0200 lvl=info msg="join connections" obj=join id=91c1fbcf79e9 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:5d6f:4d2a:3cc8:2f5b]:49852
+t=2023-04-23T14:20:10+0200 lvl=info msg="join connections" obj=join id=3411410657aa l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:5d6f:4d2a:3cc8:2f5b]:50533
+t=2023-04-23T14:34:03+0200 lvl=info msg="join connections" obj=join id=38383d0540f1 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:5d6f:4d2a:3cc8:2f5b]:51017
+t=2023-04-23T14:36:05+0200 lvl=info msg="join connections" obj=join id=d7cdbe9fe83c l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:45896
+t=2023-04-23T14:36:37+0200 lvl=info msg="join connections" obj=join id=9ac242ba1ba2 l=127.0.0.1:8083 r=[2a02:8440:5315:208d:0:3c:33f3:cd01]:59802
+t=2023-04-23T14:43:01+0200 lvl=info msg="join connections" obj=join id=739c429767d4 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:5d6f:4d2a:3cc8:2f5b]:51350
+t=2023-04-23T14:49:56+0200 lvl=info msg="join connections" obj=join id=6ebd44d301dd l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:5d6f:4d2a:3cc8:2f5b]:51602
+t=2023-04-23T15:04:37+0200 lvl=info msg="Got quit command" obj=consoleui
+t=2023-04-23T15:04:37+0200 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+t=2023-04-23T15:04:37+0200 lvl=info msg="session closing" obj=tunnels.session err=nil
+t=2023-04-23T15:04:37+0200 lvl=info msg="accept failed" obj=csess id=278e8325727c err="reconnecting session closed"
+t=2023-04-23T15:04:41+0200 lvl=info msg="no configuration paths supplied"
+t=2023-04-23T15:04:41+0200 lvl=info msg="ignoring default config path, could not stat it" path=C:\\Users\\omart\\AppData\\Local/ngrok/ngrok.yml
+t=2023-04-23T15:04:41+0200 lvl=warn msg="can't bind default web address, trying alternatives" obj=web addr=127.0.0.1:4040
+t=2023-04-23T15:04:41+0200 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4041 allow_hosts=[]
+t=2023-04-23T15:04:41+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-23T15:04:41+0200 lvl=info msg="client session established" obj=csess id=c32426d2ed2b
+t=2023-04-23T15:04:41+0200 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8083 url=https://1148-2a01-e0a-c0-8960-5d6f-4d2a-3cc8-2f5b.eu.ngrok.io
+t=2023-04-23T15:05:00+0200 lvl=info msg="join connections" obj=join id=6fccacb528a8 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:5d6f:4d2a:3cc8:2f5b]:52177
+t=2023-04-23T15:05:40+0200 lvl=info msg="Got quit command" obj=consoleui
+t=2023-04-23T15:05:40+0200 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+t=2023-04-23T15:05:40+0200 lvl=info msg="session closing" obj=tunnels.session err=nil
+t=2023-04-23T15:05:40+0200 lvl=info msg="accept failed" obj=csess id=c32426d2ed2b err="reconnecting session closed"
+t=2023-04-23T15:05:42+0200 lvl=info msg="no configuration paths supplied"
+t=2023-04-23T15:05:42+0200 lvl=info msg="ignoring default config path, could not stat it" path=C:\\Users\\omart\\AppData\\Local/ngrok/ngrok.yml
+t=2023-04-23T15:05:42+0200 lvl=warn msg="can't bind default web address, trying alternatives" obj=web addr=127.0.0.1:4040
+t=2023-04-23T15:05:42+0200 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4041 allow_hosts=[]
+t=2023-04-23T15:05:42+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-23T15:05:42+0200 lvl=info msg="client session established" obj=csess id=fbac16efca9a
+t=2023-04-23T15:05:42+0200 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8083 url=https://b6ee-2a01-e0a-c0-8960-5d6f-4d2a-3cc8-2f5b.eu.ngrok.io
+t=2023-04-23T15:05:44+0200 lvl=info msg="Got quit command" obj=consoleui
+t=2023-04-23T15:05:44+0200 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+t=2023-04-23T15:05:44+0200 lvl=info msg="session closing" obj=tunnels.session err=nil
+t=2023-04-23T15:05:44+0200 lvl=info msg="accept failed" obj=csess id=fbac16efca9a err="reconnecting session closed"
+t=2023-04-23T18:30:38+0200 lvl=eror msg="heartbeat timeout, terminating session" obj=csess id=0b938a9bcbbf clientid=52a5c55418303ba5f014ddb191bb36e7
+t=2023-04-23T18:30:38+0200 lvl=eror msg="session closed, starting reconnect loop" obj=csess id=c93b0b6f9d0e err="session closed"
+t=2023-04-23T18:30:42+0200 lvl=warn msg="failed to check for update" obj=updater err="Post \"https://update.equinox.io/check\": dial tcp: lookup update.equinox.io: no such host"
+t=2023-04-23T18:30:45+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-23T18:30:45+0200 lvl=info msg="client session established" obj=csess id=c93b0b6f9d0e
+t=2023-04-23T19:16:53+0200 lvl=eror msg="heartbeat timeout, terminating session" obj=csess id=a6ca8f702305 clientid=52a5c55418303ba5f014ddb191bb36e7
+t=2023-04-23T19:16:54+0200 lvl=eror msg="session closed, starting reconnect loop" obj=csess id=c93b0b6f9d0e err="session closed"
+t=2023-04-23T19:16:54+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="dial tcp: lookup tunnel.ngrok.com: no such host"
+t=2023-04-23T19:16:55+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="dial tcp: lookup tunnel.ngrok.com: no such host"
+t=2023-04-23T19:16:55+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="Get \"https://dns.google.com/resolve?name=tunnel.ngrok.com&type=A\": dial tcp: lookup dns.google.com: no such host"
+t=2023-04-23T19:16:56+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com: no such host"
+t=2023-04-23T19:16:58+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="resolved tunnel.ngrok.com has no records"
+t=2023-04-23T19:17:00+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-23T19:17:00+0200 lvl=info msg="client session established" obj=csess id=c93b0b6f9d0e
+t=2023-04-23T19:20:01+0200 lvl=eror msg="session closed, starting reconnect loop" obj=csess id=c93b0b6f9d0e err="read tcp [2a01:e0a:c0:8960:5d6f:4d2a:3cc8:2f5b]:55398->[2a05:d014:21b:8e00::6e74:3]:443: wsarecv: An established connection was aborted by the software in your host machine."
+t=2023-04-23T19:20:03+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-23T19:20:03+0200 lvl=info msg="client session established" obj=csess id=c93b0b6f9d0e
+t=2023-04-23T19:20:16+0200 lvl=eror msg="heartbeat timeout, terminating session" obj=csess id=dcd6515cc3bb clientid=52a5c55418303ba5f014ddb191bb36e7
+t=2023-04-23T23:52:14+0200 lvl=eror msg="heartbeat timeout, terminating session" obj=csess id=df7ff532b1b4 clientid=52a5c55418303ba5f014ddb191bb36e7
+t=2023-04-23T23:52:14+0200 lvl=eror msg="session closed, starting reconnect loop" obj=csess id=c93b0b6f9d0e err="session closed"
+t=2023-04-23T23:52:21+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-23T23:52:21+0200 lvl=info msg="client session established" obj=csess id=c93b0b6f9d0e
+t=2023-04-23T23:56:20+0200 lvl=eror msg="session closed, starting reconnect loop" obj=csess id=c93b0b6f9d0e err="read tcp [2a01:e0a:c0:8960:c06b:a52d:8ab:e7b9]:63872->[2a05:d014:21b:8e00::6e74:3]:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."
+t=2023-04-23T23:56:26+0200 lvl=eror msg="heartbeat timeout, terminating session" obj=csess id=e25b126bbe0b clientid=52a5c55418303ba5f014ddb191bb36e7
+t=2023-04-23T23:56:30+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="context deadline exceeded"
+t=2023-04-23T23:56:31+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-23T23:56:31+0200 lvl=info msg="client session established" obj=csess id=c93b0b6f9d0e
+t=2023-04-23T23:56:45+0200 lvl=eror msg="session closed, starting reconnect loop" obj=csess id=c93b0b6f9d0e err="read tcp [2a01:e0a:c0:8960:f06f:5312:bafa:cafe]:51509->[2a05:d014:21b:8e02::6e74:2]:443: wsarecv: An established connection was aborted by the software in your host machine."
+t=2023-04-23T23:56:45+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="dial tcp: lookup tunnel.ngrok.com: no such host"
+t=2023-04-23T23:56:46+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="dial tcp: lookup tunnel.ngrok.com: no such host"
+t=2023-04-23T23:56:47+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="Get \"https://dns.google.com/resolve?name=tunnel.ngrok.com&type=AAAA\": dial tcp: lookup dns.google.com: no such host"
+t=2023-04-23T23:56:48+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com: no such host"
+t=2023-04-23T23:56:50+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="resolved tunnel.ngrok.com has no records"
+t=2023-04-23T23:56:53+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="dial tcp: lookup tunnel.ngrok.com: no such host"
+t=2023-04-23T23:56:57+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="Get \"https://dns.google.com/resolve?name=tunnel.ngrok.com&type=A\": dial tcp: lookup dns.google.com: no such host"
+t=2023-04-23T23:57:02+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com: no such host"
+t=2023-04-23T23:57:06+0200 lvl=eror msg="heartbeat timeout, terminating session" obj=csess id=4b7b41eda603 clientid=52a5c55418303ba5f014ddb191bb36e7
+t=2023-04-23T23:57:11+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="resolved tunnel.ngrok.com has no records"
+t=2023-04-23T23:57:24+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="dial tcp: lookup tunnel.ngrok.com: no such host"
+t=2023-04-23T23:57:44+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="dial tcp: lookup tunnel.ngrok.com: no such host"
+t=2023-04-23T23:58:13+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="dial tcp: lookup tunnel.ngrok.com: no such host"
+t=2023-04-23T23:58:43+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="Get \"https://dns.google.com/resolve?name=tunnel.ngrok.com&type=A\": dial tcp: lookup dns.google.com: no such host"
+t=2023-04-23T23:59:13+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com: no such host"
+t=2023-04-23T23:59:43+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="resolved tunnel.ngrok.com has no records"
+t=2023-04-24T00:00:13+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="dial tcp: lookup tunnel.ngrok.com: no such host"
+t=2023-04-24T00:00:43+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-24T00:00:43+0200 lvl=info msg="client session established" obj=csess id=c93b0b6f9d0e
+t=2023-04-24T00:21:32+0200 lvl=eror msg="session closed, starting reconnect loop" obj=csess id=c93b0b6f9d0e err="read tcp 192.168.1.82:54365->3.122.29.226:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."
+t=2023-04-24T00:21:38+0200 lvl=eror msg="heartbeat timeout, terminating session" obj=csess id=6519d3ab452d clientid=52a5c55418303ba5f014ddb191bb36e7
+t=2023-04-24T00:21:42+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="dial tcp: lookup tunnel.ngrok.com: i/o timeout"
+t=2023-04-24T00:21:43+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="dial tcp: lookup tunnel.ngrok.com: no such host"
+t=2023-04-24T00:21:44+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="Get \"https://dns.google.com/resolve?name=tunnel.ngrok.com&type=A\": dial tcp: lookup dns.google.com: no such host"
+t=2023-04-24T00:21:45+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com: no such host"
+t=2023-04-24T00:21:47+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="resolved tunnel.ngrok.com has no records"
+t=2023-04-24T00:21:51+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="dial tcp: lookup tunnel.ngrok.com: no such host"
+t=2023-04-24T00:22:06+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="Get \"https://dns.google.com/resolve?name=tunnel.ngrok.com&type=AAAA\": context deadline exceeded"
+t=2023-04-24T00:22:13+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="jsonHTTP.Lookup: No such host: tunnel.ngrok.com"
+t=2023-04-24T00:22:24+0200 lvl=eror msg="failed to reconnect session" obj=csess id=c93b0b6f9d0e err="resolved tunnel.ngrok.com has no records"
+t=2023-04-24T00:22:38+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-24T00:22:38+0200 lvl=info msg="client session established" obj=csess id=c93b0b6f9d0e
+t=2023-04-24T00:25:35+0200 lvl=info msg="no configuration paths supplied"
+t=2023-04-24T00:25:35+0200 lvl=info msg="ignoring default config path, could not stat it" path=C:\\Users\\omart\\AppData\\Local/ngrok/ngrok.yml
+t=2023-04-24T00:25:35+0200 lvl=warn msg="can't bind default web address, trying alternatives" obj=web addr=127.0.0.1:4040
+t=2023-04-24T00:25:35+0200 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4041 allow_hosts=[]
+t=2023-04-24T00:25:35+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-24T00:25:35+0200 lvl=info msg="client session established" obj=csess id=ceb716a63607
+t=2023-04-24T00:25:35+0200 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8083 url=https://bf7f-2a01-e0a-c0-8960-7407-d319-947a-1277.eu.ngrok.io
+t=2023-04-24T00:26:00+0200 lvl=info msg="join connections" obj=join id=1b5d718443f9 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:51662
+t=2023-04-24T00:26:02+0200 lvl=info msg="join connections" obj=join id=4f5055c2b809 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:51669
+t=2023-04-24T00:26:03+0200 lvl=info msg="join connections" obj=join id=89cfea5e1645 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:51672
+t=2023-04-24T00:26:16+0200 lvl=info msg="join connections" obj=join id=c76faa1da5b6 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:51677
+t=2023-04-24T00:38:05+0200 lvl=info msg="join connections" obj=join id=2e4569b6cd01 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:51820
+t=2023-04-24T00:53:18+0200 lvl=info msg="join connections" obj=join id=d9906883b22f l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:56177
+t=2023-04-24T00:59:38+0200 lvl=info msg="join connections" obj=join id=31ff84849242 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:56402
+t=2023-04-24T01:01:07+0200 lvl=info msg="join connections" obj=join id=53a50e6b2669 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:56467
+t=2023-04-24T01:02:38+0200 lvl=info msg="join connections" obj=join id=706eb9e8220f l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:56527
+t=2023-04-24T01:12:17+0200 lvl=info msg="join connections" obj=join id=179fb59e3092 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:56866
+t=2023-04-24T01:19:05+0200 lvl=info msg="join connections" obj=join id=348ce49a7b27 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:57120
+t=2023-04-24T01:19:17+0200 lvl=info msg="join connections" obj=join id=f38dbab66847 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:57133
+t=2023-04-24T01:22:46+0200 lvl=info msg="join connections" obj=join id=51a7102953a5 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:57264

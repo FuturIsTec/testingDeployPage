@@ -1,0 +1,5 @@
+t=2023-04-23T12:55:58+0200 lvl=info msg="join connections" obj=join id=50987aaa4d7c l=127.0.0.1:8083 r=[2a02:8440:530b:1a6f:0:3c:33e3:f301]:54134
+t=2023-04-23T13:06:32+0200 lvl=info msg="join connections" obj=join id=ceecfd614e3a l=127.0.0.1:8083 r=[2a02:8440:530b:1a6f:0:3c:33e3:f301]:46800
+t=2023-04-23T13:09:38+0200 lvl=info msg="join connections" obj=join id=291c08b25860 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:55482
+t=2023-04-23T13:13:42+0200 lvl=info msg="join connections" obj=join id=5b4be569fdac l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:60744
+t=2023-04-23T13:13:45+0200 lvl=info msg="join connections" obj=join id=11529c8dd1b2 l=127.0.0.1:8083 r=65.21.241.47:45020

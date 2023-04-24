@@ -126,3 +126,65 @@ t=2023-04-24T01:43:20+0200 lvl=warn msg="failed to open private leg" id=8370d512
 t=2023-04-24T01:43:57+0200 lvl=info msg="join connections" obj=join id=ffa775b4b3aa l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:57595
 t=2023-04-24T01:50:39+0200 lvl=warn msg="failed to open private leg" id=3280ae2b3977 privaddr=localhost:8083 err="dial tcp [::1]:8083: connectex: No connection could be made because the target machine actively refused it."
 t=2023-04-24T01:51:19+0200 lvl=info msg="join connections" obj=join id=f10f1e00e95b l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:57860
+t=2023-04-24T02:10:23+0200 lvl=warn msg="failed to open private leg" id=6fcb04d2a042 privaddr=localhost:8083 err="dial tcp [::1]:8083: connectex: No connection could be made because the target machine actively refused it."
+t=2023-04-24T02:11:17+0200 lvl=info msg="join connections" obj=join id=8eee7cff4947 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:58529
+t=2023-04-24T02:11:53+0200 lvl=info msg="join connections" obj=join id=3829cd896324 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:33608
+t=2023-04-24T02:12:55+0200 lvl=info msg="join connections" obj=join id=f47365f5fdc3 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:58547
+t=2023-04-24T02:33:48+0200 lvl=info msg="Got quit command" obj=consoleui
+t=2023-04-24T02:33:48+0200 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+t=2023-04-24T02:33:48+0200 lvl=info msg="session closing" obj=tunnels.session err=nil
+t=2023-04-24T02:33:48+0200 lvl=info msg="accept failed" obj=csess id=ceb716a63607 err="reconnecting session closed"
+t=2023-04-24T02:33:50+0200 lvl=info msg="no configuration paths supplied"
+t=2023-04-24T02:33:50+0200 lvl=info msg="ignoring default config path, could not stat it" path=C:\\Users\\omart\\AppData\\Local/ngrok/ngrok.yml
+t=2023-04-24T02:33:50+0200 lvl=warn msg="can't bind default web address, trying alternatives" obj=web addr=127.0.0.1:4040
+t=2023-04-24T02:33:50+0200 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4041 allow_hosts=[]
+t=2023-04-24T02:33:50+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-24T02:33:50+0200 lvl=info msg="client session established" obj=csess id=2fcfa63e2a71
+t=2023-04-24T02:33:50+0200 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8083 url=https://8933-2a01-e0a-c0-8960-7407-d319-947a-1277.eu.ngrok.io
+t=2023-04-24T02:34:09+0200 lvl=info msg="join connections" obj=join id=147c75bbaf7a l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:58782
+t=2023-04-24T20:57:47+0200 lvl=info msg="no configuration paths supplied"
+t=2023-04-24T20:57:47+0200 lvl=info msg="ignoring default config path, could not stat it" path=C:\\Users\\omart\\AppData\\Local/ngrok/ngrok.yml
+t=2023-04-24T20:57:47+0200 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2023-04-24T20:57:47+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-24T20:57:47+0200 lvl=info msg="client session established" obj=csess id=3db84086f5c0
+t=2023-04-24T20:57:47+0200 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8083 url=https://a7d3-2a01-e0a-c0-8960-9c9e-2e3a-5de1-e9fb.eu.ngrok.io
+t=2023-04-24T21:07:00+0200 lvl=info msg="join connections" obj=join id=8c7bb1f32339 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50278
+t=2023-04-24T21:14:45+0200 lvl=info msg="join connections" obj=join id=849778bd2143 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50366
+t=2023-04-24T21:20:11+0200 lvl=info msg="join connections" obj=join id=e14b4cb0823b l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50448
+t=2023-04-24T21:20:22+0200 lvl=info msg="join connections" obj=join id=66bb11bbdc95 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50456
+t=2023-04-24T21:20:26+0200 lvl=info msg="join connections" obj=join id=c9eb53a2c2cb l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50462
+t=2023-04-24T21:20:30+0200 lvl=info msg="join connections" obj=join id=18f8b5f2be9c l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50468
+t=2023-04-24T21:20:52+0200 lvl=info msg="join connections" obj=join id=21c98207c6bc l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50479
+t=2023-04-24T21:23:33+0200 lvl=info msg="join connections" obj=join id=c34d5cd10675 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50514
+t=2023-04-24T21:24:21+0200 lvl=info msg="join connections" obj=join id=558e0a6fa05c l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50530
+t=2023-04-24T21:25:02+0200 lvl=info msg="join connections" obj=join id=1ed4c3b41075 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50552
+t=2023-04-24T21:25:30+0200 lvl=info msg="join connections" obj=join id=60c3598d84f7 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50570
+t=2023-04-24T21:26:05+0200 lvl=info msg="join connections" obj=join id=2169bd7d5bd0 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50594
+t=2023-04-24T21:26:28+0200 lvl=info msg="join connections" obj=join id=ba8538a8c498 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50610
+t=2023-04-24T21:26:30+0200 lvl=info msg="join connections" obj=join id=236273e2ddd5 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50614
+t=2023-04-24T21:26:41+0200 lvl=info msg="join connections" obj=join id=aabcc124d8cb l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50626
+t=2023-04-24T21:29:40+0200 lvl=info msg="join connections" obj=join id=7ccd4f8da714 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50741
+t=2023-04-24T21:29:42+0200 lvl=info msg="join connections" obj=join id=534db19aaa38 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50749
+t=2023-04-24T21:33:18+0200 lvl=info msg="join connections" obj=join id=1692612c0491 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:50923
+t=2023-04-24T21:33:18+0200 lvl=info msg="join connections" obj=join id=71e46752abc7 l=127.0.0.1:8083 r=91.163.2.37:35993
+t=2023-04-24T22:06:20+0200 lvl=info msg="join connections" obj=join id=1eb0b7fc8166 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:52292
+t=2023-04-24T22:06:40+0200 lvl=info msg="join connections" obj=join id=4cfc28b82631 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:52310
+t=2023-04-24T22:07:33+0200 lvl=info msg="join connections" obj=join id=d8a1833dfe01 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:52362
+t=2023-04-24T22:12:15+0200 lvl=info msg="join connections" obj=join id=e16ac9820122 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:52556
+t=2023-04-24T22:17:28+0200 lvl=info msg="join connections" obj=join id=1b761bbabd3c l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:52802
+t=2023-04-24T22:20:51+0200 lvl=info msg="join connections" obj=join id=91633ecc8582 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:52928
+t=2023-04-24T22:21:57+0200 lvl=info msg="join connections" obj=join id=2225a18d4e04 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:52999
+t=2023-04-24T22:23:01+0200 lvl=info msg="join connections" obj=join id=f79e58dffdaa l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:53055
+t=2023-04-24T22:52:54+0200 lvl=info msg="join connections" obj=join id=8d2d2f67212f l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:54063
+t=2023-04-25T00:04:11+0200 lvl=info msg="Got quit command" obj=consoleui
+t=2023-04-25T00:04:11+0200 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+t=2023-04-25T00:04:11+0200 lvl=info msg="session closing" obj=tunnels.session err=nil
+t=2023-04-25T00:04:11+0200 lvl=info msg="accept failed" obj=csess id=3db84086f5c0 err="reconnecting session closed"
+t=2023-04-25T00:04:14+0200 lvl=info msg="no configuration paths supplied"
+t=2023-04-25T00:04:14+0200 lvl=info msg="ignoring default config path, could not stat it" path=C:\\Users\\omart\\AppData\\Local/ngrok/ngrok.yml
+t=2023-04-25T00:04:14+0200 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2023-04-25T00:04:14+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-25T00:04:14+0200 lvl=info msg="client session established" obj=csess id=edafa97b822c
+t=2023-04-25T00:04:14+0200 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8083 url=https://5fb6-2a01-e0a-c0-8960-9c9e-2e3a-5de1-e9fb.eu.ngrok.io
+t=2023-04-25T00:04:39+0200 lvl=info msg="join connections" obj=join id=aac43815df9f l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:58012
+t=2023-04-25T00:05:05+0200 lvl=info msg="join connections" obj=join id=8af5ad9bac79 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:56767

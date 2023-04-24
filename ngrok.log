@@ -122,3 +122,7 @@ t=2023-04-24T01:12:17+0200 lvl=info msg="join connections" obj=join id=179fb59e3
 t=2023-04-24T01:19:05+0200 lvl=info msg="join connections" obj=join id=348ce49a7b27 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:57120
 t=2023-04-24T01:19:17+0200 lvl=info msg="join connections" obj=join id=f38dbab66847 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:57133
 t=2023-04-24T01:22:46+0200 lvl=info msg="join connections" obj=join id=51a7102953a5 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:57264
+t=2023-04-24T01:43:20+0200 lvl=warn msg="failed to open private leg" id=8370d5126903 privaddr=localhost:8083 err="dial tcp [::1]:8083: connectex: No connection could be made because the target machine actively refused it."
+t=2023-04-24T01:43:57+0200 lvl=info msg="join connections" obj=join id=ffa775b4b3aa l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:57595
+t=2023-04-24T01:50:39+0200 lvl=warn msg="failed to open private leg" id=3280ae2b3977 privaddr=localhost:8083 err="dial tcp [::1]:8083: connectex: No connection could be made because the target machine actively refused it."
+t=2023-04-24T01:51:19+0200 lvl=info msg="join connections" obj=join id=f10f1e00e95b l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:7407:d319:947a:1277]:57860

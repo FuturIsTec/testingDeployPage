@@ -188,3 +188,6 @@ t=2023-04-25T00:04:14+0200 lvl=info msg="client session established" obj=csess i
 t=2023-04-25T00:04:14+0200 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8083 url=https://5fb6-2a01-e0a-c0-8960-9c9e-2e3a-5de1-e9fb.eu.ngrok.io
 t=2023-04-25T00:04:39+0200 lvl=info msg="join connections" obj=join id=aac43815df9f l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:58012
 t=2023-04-25T00:05:05+0200 lvl=info msg="join connections" obj=join id=8af5ad9bac79 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:56767
+t=2023-04-25T00:21:36+0200 lvl=info msg="join connections" obj=join id=9601877bc1ae l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:50730
+t=2023-04-25T00:23:18+0200 lvl=info msg="join connections" obj=join id=6aa3fbc9de83 l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:9c9e:2e3a:5de1:e9fb]:57060
+t=2023-04-25T00:24:13+0200 lvl=info msg="join connections" obj=join id=c8db0001bd6b l=127.0.0.1:8083 r=[2a01:e0a:c0:8960:a9d6:5c04:1e40:d787]:58102
